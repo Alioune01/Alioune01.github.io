@@ -2,7 +2,7 @@ var projTitles = document.getElementsByTagName("span");
 
 for(var i = 0; i<projTitles.length; i++)
 {
-	projTitles.addEventListener("click", )
+	projTitles.addEventListener("click", goToPage)
 }
 
 function goToPage()
